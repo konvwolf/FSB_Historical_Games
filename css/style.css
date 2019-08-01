@@ -101,6 +101,7 @@ img[alt="Logo"],
   height: 38px;
   border: none;
   box-sizing: border-box;
+  color: white;
 }
 
 .search_inp::placeholder {
