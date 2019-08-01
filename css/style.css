@@ -115,6 +115,7 @@ img[alt="Logo"],
   background-color: transparent;
   border: none;
   border-left: 1px solid white;
+  cursor: pointer;
 }
 
 h2 {
